@@ -3,7 +3,7 @@
 | --- | --- |
 |OS|macOS Catalina 10.15 (19A583) |
 |Processor|i7 8700K 4.8GHZ|
-|Memory|Kingston Predator DDR3 RGB 3200MHZ 32GB(16GBx2) + |
+|Memory|Kingston Predator DDR3 RGB 3200MHZ 32GB(16GBx2)<br/>AData DDR4 2400MHZ 16GB(8GBx)|
 |Motherboard|GIGABYTE Z370 HD3 ATX Motherboard (BIOS:F8)|
 |Storage|Samsung SSD 970 EVO 500GB|
 |Graphics Card|Sapphire RX470|
