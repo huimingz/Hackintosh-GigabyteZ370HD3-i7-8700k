@@ -3,7 +3,7 @@
 | --- | --- |
 |Processor|i7 8700K|
 |Memory|Kingston Predator DDR3 RGB 3200MHZ 32GB(16GBx2)|
-|Motherboard|GIGABYTE Z370 HD3 ATX Motherboard (bios:v8)|
+|Motherboard|GIGABYTE Z370 HD3 ATX Motherboard (BIOS:F8)|
 |Storage|Samsung SSD 970 EVO 500GB|
 |Graphics Card|Sapphire RX470|
 |WiFi Bluetooth|PCI-e BCM94360CD|
