@@ -26,3 +26,8 @@
 
 ## What Doesn't Work
 Nothing.
+
+## Screenshot
+
+![](media/encoding.png)
+
