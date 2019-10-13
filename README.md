@@ -1,6 +1,7 @@
 ## Configuration
 |Specifications|Detail|
 | --- | --- |
+|OS|macOS Catalina 10.15 (19A583) |
 |Processor|i7 8700K 4.8GHZ|
 |Memory|Kingston Predator DDR3 RGB 3200MHZ 32GB(16GBx2) + |
 |Motherboard|GIGABYTE Z370 HD3 ATX Motherboard (BIOS:F8)|
